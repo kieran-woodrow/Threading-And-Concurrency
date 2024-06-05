@@ -1,7 +1,9 @@
 
 # 🏷️ Project Name
 
-Threading and concurrency is Jav
+Threading and concurrency in java.
+The first way is using java.lang.Thread
+The second way is using java.lang.Runnable interface and to pass the runnable instance to a newly constructed object of type java.lang.Thread. 
 
 ---
 ## 🗂️ Table Of Contents
